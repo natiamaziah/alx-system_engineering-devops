@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-how to manuplate files using shell and command line 
+how to use command line 
