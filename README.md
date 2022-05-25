@@ -1,1 +1,2 @@
-how to use command line 
+#!/bin/bash
+working with shell script

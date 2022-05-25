@@ -1,1 +1,2 @@
-a sript that shows abolute path name
+#!/bin/bash
+file about working directory command
